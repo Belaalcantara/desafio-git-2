@@ -153,3 +153,9 @@ body{
 .divTextFlex p{
     margin-left: 10px;
 }
+
+iframe{
+    margin-left: 0;
+    margin-right: 0;
+}
+
