@@ -1,4 +1,17 @@
 body {
-    text-align: center;
+    text-align: center;   
     font-size: 20px;
+    margin: 0;
+    margin: auto;
+    background-image: linear-gradient(beige)
+}
+
+h1 {
+    color: black;
+}
+
+#button {
+    border-radius: 15px;
+    background-color: black;
+    color: white ;
 }
