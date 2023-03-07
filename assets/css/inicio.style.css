@@ -5,6 +5,9 @@
     text-align: center;
     color: rgb(114, 15, 15);
 }
+#p5{
+    font-size: 20px;
+}
 
 #p1{
     text-align: justify;
@@ -96,7 +99,7 @@ body{
 }
 #div5{
     background-color: rgb(255, 255, 255);
-    color: black;
+    color: white;
     margin: 7px;
     font-size: 10px;
     text-align: justify;
