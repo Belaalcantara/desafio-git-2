@@ -1,7 +1,11 @@
+.contener{
+        background-color: rgb(132, 6, 6);
+}
 
 body{
     background-color: rgb(160, 104, 104);
 }
+
 #p-textos {
     color: white;
 }
