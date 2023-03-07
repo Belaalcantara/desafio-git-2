@@ -3,13 +3,19 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: oblique;
     text-align: center;
+    color: rgb(249, 219, 86);
 }
 #p1{
     text-align: justify;
+    color: black;
+    font-size: 20px;
 }
 .section1{
     display: flex;
     margin: 3px;
     text-align: justify;
-    background-color: red;
+    background-color: rgb(248, 50, 50);
+}
+body{
+    background-color:white ;
 }
