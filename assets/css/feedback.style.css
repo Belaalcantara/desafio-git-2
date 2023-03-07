@@ -1,0 +1,15 @@
+form{
+    display:flex;
+    flex-direction: column;
+    border-radius: 25px;
+    margin: auto;
+    width: 40%;
+    padding: 50px;
+}
+body{
+   background-image: linear-gradient(rgb(162,37,37),beige);
+   padding: 50px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
