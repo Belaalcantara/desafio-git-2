@@ -1,6 +1,6 @@
 .inicio{
     font-size: 40px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: oblique;
     text-align: center;
     color: rgb(249, 219, 86);
@@ -18,4 +18,16 @@
 }
 body{
     background-color:white ;
+}
+.pizzas{
+    background-color: red;
+}
+.section2{
+    font-size: 15px;
+    margin: 7px;
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    border-radius: 7px;
+
 }
