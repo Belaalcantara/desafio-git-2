@@ -4,3 +4,7 @@
     font-style: oblique;
     text-align: center;
 }
+#p1{
+    text-align: justify;
+    display: flex;
+}
